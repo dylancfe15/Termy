@@ -1,0 +1,6 @@
+framework module Pods_TermyTests {
+  umbrella header "Pods-TermyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
